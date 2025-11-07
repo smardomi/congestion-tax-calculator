@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CongestionTaxConsole/1.0.0": {
+        "dependencies": {
+          "congestion-tax-calculator-net-core": "1.0.0"
+        },
+        "runtime": {
+          "CongestionTaxConsole.dll": {}
+        }
+      },
+      "congestion-tax-calculator-net-core/1.0.0": {
+        "runtime": {
+          "congestion-tax-calculator-net-core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CongestionTaxConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "congestion-tax-calculator-net-core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

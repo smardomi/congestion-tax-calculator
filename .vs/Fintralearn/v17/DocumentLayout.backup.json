@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saeed\\Desktop\\Fintralearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E1283-71B0-4A13-A3A9-2E0544AC1A2F}|CongestionTaxConsole\\CongestionTaxConsole.csproj|c:\\users\\saeed\\desktop\\fintralearn\\congestiontaxconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E1283-71B0-4A13-A3A9-2E0544AC1A2F}|CongestionTaxConsole\\CongestionTaxConsole.csproj|solutionrelative:congestiontaxconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E1283-71B0-4A13-A3A9-2E0544AC1A2F}|CongestionTaxConsole\\CongestionTaxConsole.csproj|c:\\users\\saeed\\desktop\\fintralearn\\congestiontaxconsole\\city_rules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E23E1283-71B0-4A13-A3A9-2E0544AC1A2F}|CongestionTaxConsole\\CongestionTaxConsole.csproj|solutionrelative:congestiontaxconsole\\city_rules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CityRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\TaxHour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CongestionTaxCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "city_rules.json",
+              "DocumentMoniker": "C:\\Users\\saeed\\Desktop\\Fintralearn\\CongestionTaxConsole\\city_rules.json",
+              "RelativeDocumentMoniker": "CongestionTaxConsole\\city_rules.json",
+              "ToolTip": "C:\\Users\\saeed\\Desktop\\Fintralearn\\CongestionTaxConsole\\city_rules.json",
+              "RelativeToolTip": "CongestionTaxConsole\\city_rules.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T09:25:07.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Desktop\\Fintralearn\\CongestionTaxConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CongestionTaxConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\saeed\\Desktop\\Fintralearn\\CongestionTaxConsole\\Program.cs",
+              "RelativeToolTip": "CongestionTaxConsole\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:24:48.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityRule.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CityRule.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CityRule.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CityRule.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CityRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:17:08.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxHour.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\TaxHour.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\TaxHour.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\TaxHour.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\TaxHour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:16:43.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Vehicle.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:00:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorbike.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Motorbike.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Motorbike.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Motorbike.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Motorbike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:00:21.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CongestionTaxCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CongestionTaxCalculator.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CongestionTaxCalculator.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CongestionTaxCalculator.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\CongestionTaxCalculator.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:00:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Car.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Car.cs",
+              "ToolTip": "C:\\Users\\saeed\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Car.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Compressed\\Backend Technical Test\\Backend Technical Test\\netcore\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:00:14.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

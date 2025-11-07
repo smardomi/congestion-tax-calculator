@@ -1,0 +1,22 @@
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\bin\Debug\net9.0\congestion-tax-calculator-net-core.deps.json
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\bin\Debug\net9.0\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\bin\Debug\net9.0\congestion-tax-calculator-net-core.pdb
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.AssemblyInfoInputs.cache
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.AssemblyInfo.cs
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\refint\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\congestion-tax-calculator-net-core.pdb
+C:\Users\saeed\Downloads\Compressed\Backend Technical Test\Backend Technical Test\netcore\obj\Debug\net9.0\ref\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\bin\Debug\net9.0\congestion-tax-calculator-net-core.deps.json
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\bin\Debug\net9.0\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\bin\Debug\net9.0\congestion-tax-calculator-net-core.pdb
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.AssemblyInfoInputs.cache
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.AssemblyInfo.cs
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\refint\congestion-tax-calculator-net-core.dll
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\congestion-tax-calculator-net-core.pdb
+C:\Users\saeed\Desktop\Fintralearn\congestion-tax-calculator-net-core\obj\Debug\net9.0\ref\congestion-tax-calculator-net-core.dll
